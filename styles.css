@@ -2,7 +2,6 @@ body {
     background-color: rgb(215, 250, 220);
 }
 
-
 .titel {
     color: rgb(74, 107, 184);
     text-align: left;
@@ -25,15 +24,21 @@ h1 {
     
 .titel {        
     color: rgb(5, 133, 244);
-  font-size: 100px;
+    font-size: 100px;
 }
+
 .img-spain {
     width:400px;
 }
+
 .img-germani {
     width: 500px;
 }
 
 .img-itali {
     width: 500px;
+}
+
+.img-portugal {
+    width: 450px;
 }
