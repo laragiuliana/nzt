@@ -1,15 +1,39 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(215, 250, 220);
 }
 
 
 .titel {
-    color: purple;
-    text-align: center;
-    font-size: 70px;
+    color: rgb(74, 107, 184);
+    text-align: left;
+    font-size: Länder Europas
+    100px;
 }
 
 .bodyimage {
     width: 500px;
     height: auto;
+}
+
+.img-france {
+    width:300px;
+}
+
+h1 {
+    font-size: 20px;
+}
+    
+.titel {        
+    color: rgb(5, 133, 244);
+  font-size: 100px;
+}
+.img-spain {
+    width:400px;
+}
+.img-germani {
+    width: 500px;
+}
+
+.img-itali {
+    width: 500px;
 }
